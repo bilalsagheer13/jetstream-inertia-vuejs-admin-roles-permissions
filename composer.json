@@ -9,12 +9,15 @@
         "guzzlehttp/guzzle": "^7.2",
         "inertiajs/inertia-laravel": "^1.0.0",
         "laravel/framework": "^10.0",
+        "laravel/sanctum": "^3.2",
         "laravel/jetstream": "^4.1.1",
-        "laravel/tinker": "^2.8"
+        "laravel/tinker": "^2.8",
+        "tightenco/ziggy": "^2.0"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^3.0",
         "fakerphp/faker": "^1.9.1",
+        "laravel/breeze": "^1.23",
         "icanhazstring/composer-unused": "^0.8.11",
         "laravel/pint": "^1.0",
         "laravel/sail": "^1.18",
